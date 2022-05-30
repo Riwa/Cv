@@ -1,0 +1,28 @@
+body {
+    background-color:#E0FFFF;
+  }
+  h1#T1{
+      color: #3c3c3c;
+  }
+  h1#T2{
+    color: #3c3c3c;
+  }
+  h1#T3{
+    color: #3c3c3c;
+  }
+  h1#T4{
+    color: #3c3c3c;
+ }
+ ----h4#t1{
+    color: #3c3c3c;
+ }
+ ---h4#t2{
+    color: #3c3c3c;
+ }
+  ul li{
+	color:grey;
+	font-weight:normal;
+}
+.I{
+    color:grey;
+}
